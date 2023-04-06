@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.html{
+    margin: 550px;
+    margin-top:  200px;
+    margin-right: 35%;
+}
+.css{
+    border: red solid 1px;
+    border-radius: 10px;
+    padding: 30px;
+    
+}
+.ddd {
+    text-align: center;
+}
